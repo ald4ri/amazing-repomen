@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskName": "task-createNewAzureDB",
+      "appliesTo": "createNewAzureDB.ps1",
+      "type": "launch"
+    }
+  ]
+}
